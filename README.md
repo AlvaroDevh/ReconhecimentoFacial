@@ -1,4 +1,4 @@
-Reconhecimento Facial com OpenCV em Python
+# Reconhecimento Facial com OpenCV em Python
 
 Este é um projeto em Python que utiliza a biblioteca OpenCV para realizar reconhecimento facial em tempo real. O programa implementa diferentes métodos de classificação, incluindo Cascade, Eigenfaces, Fisherfaces e LBPH.
 
